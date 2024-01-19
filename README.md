@@ -1,4 +1,5 @@
 # LLM---Detect-AI-Generated-Text
+<<<<<<< HEAD
 Model that identifies which essay was written by a large language model
 
 
@@ -7,3 +8,6 @@ In recent years, large language models (LLMs) have become increasingly sophistic
 Data Source: https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 Trainig data: https://www.kaggle.com/datasets/thedrcat/daigt-proper-train-dataset/
+=======
+Model that identifies which essay was written by a large language model and which was written by a student
+>>>>>>> 292aaa97bcafb06de92e4db10df7c498e43534f8
